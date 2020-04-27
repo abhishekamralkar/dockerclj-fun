@@ -1,0 +1,5 @@
+* Docker Clojure
+
+This repository consist of some sample code to showcase the `clj-docker-client`.
+
+[[https://github.com/into-docker/clj-docker-client][clj-docker-client]]
