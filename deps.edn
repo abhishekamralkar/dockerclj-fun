@@ -1,6 +1,7 @@
 {:Paths ["src" "resources"]
  :deps {org.clojure/clojure {:mvn/version "1.10.1"}
-        lispyclouds/clj-docker-client {:mvn/version "1.0.0-RC2"}}
+        lispyclouds/clj-docker-client {:mvn/version "1.0.0-RC2"}
+        org.clojure/tools.cli {:mvn/version "1.0.194"}}
  :aliases
  {:test {:extra-paths ["test"]
          :extra-deps {org.clojure/test.check {:mvn/version "1.0.0"}}}
